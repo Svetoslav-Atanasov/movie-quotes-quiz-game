@@ -1,0 +1,160 @@
+{
+	"binaryQuotes": [
+		{
+			"id": 1,
+			"quote": "Frankly, my dear, I don't give a damn.",
+			"movie": "Gone With the Wind",
+			"year": "1939",
+			"answer": "Gone With the Wind"
+		},
+		{
+			"id": 2,
+			"quote": "I'm going to make him an offer he can't refuse.",
+			"movie": "Godfather",
+			"year": "1972",
+			"answer": "Godfather"
+		},
+		{
+			"id": 3,
+			"quote": "All right, Mr. DeMille, I'm ready for my close-up.",
+			"movie": "Sunset Boulevard",
+			"year": "1950",
+			"answer": "Sunset Boulevard"
+		},
+		{
+			"id": 4,
+			"quote": "May the Force be with you.",
+			"movie": "Star Wars",
+			"year": "1977",
+			"answer": "Star Wars"
+		},
+		{
+			"id": 5,
+			"quote": "You talking to me?",
+			"movie": "Dog Day Afternoon",
+			"year": "1975",
+			"answer": "Taxi Driver"
+		},
+		{
+			"id": 6,
+			"quote": "Love means never having to say you're sorry.",
+			"movie": "Love Story",
+			"year": "1970",
+			"answer": "Love Story"
+		},
+		{
+			"id": 7,
+			"quote": "Louis, I think this is the beginning of a beautiful friendship.",
+			"movie": "Casino Royale",
+			"year": "2006",
+			"answer": "Casablanca"
+		},
+		{
+			"id": 8,
+			"quote": "Bond. James Bond.",
+			"movie": "Dr. No",
+			"year": "1962",
+			"answer": "Dr. No"
+		},
+		{
+			"id": 9,
+			"quote": "I'm walking here! I'm walking here!",
+			"movie": "Midnight Cowboy",
+			"year": "1969",
+			"answer": "Midnight Cowboy"
+		},
+		{
+			"id": 10,
+			"quote": "I'll have what she's having.",
+			"movie": "Toy Story",
+			"year": "1995",
+			"answer": "When Harry Met Sally"
+		}
+	],
+	"multipleChoiceQuotes": [
+		{
+			"id": 1,
+			"quote": "Frankly, my dear, I don't give a damn.",
+			"movie": "Gone With the Wind",
+			"year": "1939",
+			"options": ["Casino Royale", "Gone With the Wind", "Toy Story"],
+			"answer": "Gone With the Wind"
+		},
+		{
+			"id": 2,
+			"quote": "I'm going to make him an offer he can't refuse.",
+			"movie": "Godfather",
+			"year": "1972",
+			"options": ["Godfather", "The Dark Knight", "The Peanut Butter Falcon"],
+			"answer": "Godfather"
+		},
+		{
+			"id": 3,
+			"quote": "All right, Mr. DeMille, I'm ready for my close-up.",
+			"movie": "Sunset Boulevard",
+			"year": "1950",
+			"options": ["Pulp Fiction", "Insomnia", "Sunset Boulevard"],
+			"answer": "Sunset Boulevard"
+		},
+		{
+			"id": 4,
+			"quote": "May the Force be with you.",
+			"movie": "Star Wars",
+			"year": "1977",
+			"options": ["Inception", "Star Wars", "Forrest Gump"],
+			"answer": "Star Wars"
+		},
+		{
+			"id": 5,
+			"quote": "You talking to me?",
+			"movie": "Taxi Driver",
+			"year": "1976",
+			"options": ["Taxi Driver", "The Matrix", "Seven Samurai"],
+			"answer": "Taxi Driver"
+		},
+		{
+			"id": 6,
+			"quote": "Love means never having to say you're sorry.",
+			"movie": "Love Story",
+			"year": "1970",
+			"options": ["Se7en", "Love Story", "The Silence of the Lambs"],
+			"answer": "Love Story"
+		},
+		{
+			"id": 7,
+			"quote": "Louis, I think this is the beginning of a beautiful friendship.",
+			"movie": "Casablanca",
+			"year": "1942",
+			"options": ["Spirited Away", "Parasite", "Casablanca"],
+			"answer": "Casablanca"
+		},
+		{
+			"id": 8,
+			"quote": "Bond. James Bond.",
+			"movie": "Dr. No",
+			"year": "1962",
+			"options": ["Dr. No", "Modern Times", "Gladiator"],
+			"answer": "Dr. No"
+		},
+		{
+			"id": 9,
+			"quote": "I'm walking here! I'm walking here!",
+			"movie": "Midnight Cowboy",
+			"year": "1969",
+			"options": [
+				"Midnight Cowboy",
+				"Léon: The Professional",
+				"The Usual Suspects"
+			],
+			"answer": "Midnight Cowboy"
+		},
+		{
+			"id": 10,
+			"quote": "I'll have what she's having.",
+			"movie": "When Harry Met Sally",
+			"year": "1989",
+			"options": ["Hara-Kiri", "When Harry Met Sally", "American History X"],
+			"answer": "When Harry Met Sally"
+		}
+	]
+}
